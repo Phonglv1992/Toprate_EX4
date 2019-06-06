@@ -28,12 +28,12 @@ public class Query {
                     addNewSV();
                     break;
                 case 3:
-                    System.out.println("Nhập id học viên cần sửa");
+                    System.out.println("Nhập ID học viên cần sửa");
                     int id=input.nextInt();
                     updateSV(id);
                     break;
                 case 4:
-                    System.out.println("id sinh viên cần xóa: ");
+                    System.out.println("Nhập ID học viên cần xóa: ");
                     int Id=input.nextInt();
                     deleteSV(Id);
                     break;

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e66f179-e22e-456f-a759-a6d7c1a61f8d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/QL_Trung_Tam/Query.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/QL_Trung_Tam/Query.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Query.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Query.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -69,8 +68,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Query.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
+            <state relative-caret-position="199">
+              <caret line="35" column="51" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#checkLogin#0;class#Query#0" />
@@ -187,6 +186,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="oracle" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="H:/Download/OJDBC-Full/ojdbc7.jar!/" />
@@ -243,12 +243,12 @@
       <workItem from="1559730601051" duration="284000" />
       <workItem from="1559740064773" duration="17004000" />
       <workItem from="1559788086741" duration="9124000" />
-      <workItem from="1559800358711" duration="1713000" />
+      <workItem from="1559800358711" duration="2314000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50579000" />
+    <option name="totallyTimeSpent" value="51180000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -432,8 +432,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Query.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
+        <state relative-caret-position="199">
+          <caret line="35" column="51" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#checkLogin#0;class#Query#0" />
