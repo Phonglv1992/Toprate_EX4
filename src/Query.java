@@ -28,7 +28,7 @@ public class Query {
                     addNewSV();
                     break;
                 case 3:
-                    System.out.println("id học viên cần sửa");
+                    System.out.println("Nhập id học viên cần sửa");
                     int id=input.nextInt();
                     updateSV(id);
                     break;
